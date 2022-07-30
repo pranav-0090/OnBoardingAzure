@@ -8,7 +8,7 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jbdl</groupId>
+	<groupId>com.prank</groupId>
 	<artifactId>spring.jpa.hibernate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring.jpa.hibernate</name>
